@@ -4,7 +4,7 @@ Centralized Microservice Configuration with Spring Cloud Config Server
 
 Using Spring Cloud Bus to exchange messages about Configuration updates
 
-Simplify communication with other Microservices using Feign REST Client
+Simplify communication with other Microservices using Feign REST Client or Rest Template
 
 Implement client side load balancing with Ribbon
 
