@@ -14,7 +14,7 @@ Implement API Gateway with Zuul
 
 Implement Distributed tracing with Spring Cloud Sleuth and Zipkin
 
-Implement Fault Tolerance with Zipkin
+Implement Fault Tolerance with Hysterix
 
 Configuration Management
 Spring Cloud Config Server : Provides configuration corresponding to different environments of all services and is maintained in git repository
